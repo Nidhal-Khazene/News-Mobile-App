@@ -23,7 +23,7 @@ class NewsApp extends StatelessWidget {
               ),
             ),
             Text(
-              "Cloud",
+              "Station",
               style: TextStyle(
                 color: Colors.orange,
                 fontSize: 22,
