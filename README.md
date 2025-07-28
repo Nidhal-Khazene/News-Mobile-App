@@ -1,8 +1,10 @@
 # news_app
 
-A simple News Mobile App using flutter.
+News Station is a News Mobile App using flutter with api integration.
 
-![Project Screenshot](./assets/images/NewsApp.png)
+![Project Screenshot](./assets/images/presentation/1.jpg)
+![Project Screenshot](./assets/images/presentation/2.jpg)
+![Project Screenshot](./assets/images/presentation/3.jpg)
 
 
 # API 
